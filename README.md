@@ -9,7 +9,7 @@ Este desafio tem como objetivo realizar consultas no banco de dados com o TypeOR
 - Usando Query Builder
 - Usando Raw Query
 
-A aplicação possui dois módulos: `users` e `games`. Um **usuário** pode ter vários jogos e um mesmo **jogo** pode estar associado a vários usuários.
+A aplicação possui dois módulos: `users` e `games`. Um **usuário** pode ter vários jogos e um mesmo **jogo** pode estar associado a vários **usuários**.
 
 O _template_ de arquivos utilizados neste projeto pode ser acessado em: [**template.**](https://github.com/rocketseat-education/ignite-template-database-queries)
 
@@ -41,6 +41,7 @@ Nesta aplicação, são contemplados **Testes Unitários**, visando garantir o c
 yarn test
 ```
 <br/>
+
 ![](assets/test_evidence.png)
 
 - **Desenvolvido** **por** [**Ygohr**](https://www.linkedin.com/in/ygohr-medeiros-28451b14a/) 🤖
