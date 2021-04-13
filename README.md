@@ -31,10 +31,7 @@ yarn
 ou
 npm install
 ```
-**4.** Execute a aplicação
-```
-yarn dev
-```
+
 ## :syringe: Evidência de Testes
 Nesta aplicação, são contemplados **Testes Unitários**, visando garantir o correto funcionamento das funcionalidades e manter a aplicação de acordo com os requisitos. 
 ```
